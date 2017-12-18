@@ -1,8 +1,0 @@
-asdsasda
-asa
-sasssaass
-
-
-function test() {
-	echo 'test';
-}s
