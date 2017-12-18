@@ -5,4 +5,4 @@ sasssaass
 
 function test() {
 	echo 'test';
-}
+}s
