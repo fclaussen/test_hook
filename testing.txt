@@ -1,3 +1,8 @@
 asdsasda
 asa
 sasssaass
+
+
+function test() {
+	echo '2plus2is4';
+}
